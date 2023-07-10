@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+.common-disc {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 14px;
+  width: 490px;
+  padding-bottom: 18px;
+}
+
+.btn-primary {
+  border-radius: 8px;
+  background: #e55473;
+  color: white;
+  padding: 14px 24px;
+  border: none;
+  font-size: 15px;
+}
+
+/* Banner */
+
+.header {
+  background-color: #e554731a;
+  height: 94vh;
+  /* background-image: url("./flower asset/pngwing 10.png");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: 500px;
+  margin-right: 120px; */
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.left {
+  padding-left: 130px;
+}
+
+.right-image {
+  padding-right: 100px;
+  padding-top: 25px;
+}
+
+.photo {
+  width: 520px;
+  height: 653px;
+  margin-bottom: 0;
+}
+
+.title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 44px;
+  width: 370px;
+  padding-bottom: 16px;
+  font-weight: 800;
+}
