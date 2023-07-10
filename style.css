@@ -62,3 +62,95 @@ body {
   padding-bottom: 16px;
   font-weight: 800;
 }
+
+/* feature */
+
+.feature-title {
+  text-align: center;
+  padding-top: 85px;
+  color: #272727;
+  font-size: 35px;
+}
+
+.disc2 {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 14px;
+  width: 490px;
+  margin: auto;
+  padding-bottom: 14px;
+  text-align: center;
+  padding-top: 18px;
+}
+
+.container-2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 100px 80px 100px;
+}
+
+.card1 {
+  width: 380px;
+  height: 400px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  background-color: #a7216226;
+}
+.card2 {
+  width: 380px;
+  height: 400px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  background-color: #0597A026;
+}
+.card3 {
+  width: 380px;
+  height: 400px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  background-color: #477D1126;
+}
+.imageC {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 40px 40px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.underline {
+  text-align: center;
+  padding-top: 20px;
+  text-decoration: underline;
+  color: #272727;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+}
+.underline2 {
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: underline;
+    color: #272727;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+.img1 {
+  width: 225px;
+  height: 310px;
+  padding-top: 50px;
+}
+.img2 {
+  width: 270px;
+  height: 310px;
+  padding-top: 20px;
+}
+.img3 {
+  width: 240px;
+  height: 310px;
+  padding-top: 50px;
+}
