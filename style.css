@@ -194,10 +194,8 @@ body {
 
 /* insta part */
 
-.section-3{
-    height: 100vh;
-    
-}
+ 
+
 .container-4{
     display: flex;
     justify-content: center;
@@ -223,6 +221,7 @@ img{
     background-repeat: no-repeat;
     margin-top: 50px;
     width: full;
+    height: 380px;
     margin-left: 100px;
     margin-right: 130px;
     border-radius: 10px;
@@ -234,7 +233,7 @@ img{
 
 .contact input{
     padding: 14px 22px ;
-    margin-left: 250px;
+    margin-left: 230px;
     border: none;
     width: 50%;
     border-radius: 5px;
@@ -243,4 +242,35 @@ img{
     
     
     
+}
+
+
+.footer{
+    background-color: #111010;
+    height: 250px;
+    color: white;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo{
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+.disc3{
+    text-align: center;
+    width: 550px;
+    padding-top: 10px;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 16px;
+}
+
+.copy-write{
+    color: rgba(255, 255, 255, 0.40);
+    padding-top: 18px;
+    font-size: 14px;
 }
