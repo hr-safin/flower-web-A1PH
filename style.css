@@ -40,7 +40,7 @@ body {
   align-items: center;
 }
 .left {
-  padding-left: 130px;
+  padding-left: 120px;
 }
 
 .right-image {
@@ -71,7 +71,7 @@ body {
 
 .feature-title {
   text-align: center;
-  padding-top: 85px;
+  padding-top: 90px;
   color: #272727;
   font-size: 35px;
 }
@@ -188,6 +188,59 @@ body {
     color: #E55473;
 }
 
-img {
+.img-sale {
   width: 250px;
+}
+
+/* insta part */
+
+.section-3{
+    height: 100vh;
+    
+}
+.container-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    padding: 20px 120px 30px 120px;
+}
+.card{
+    margin-right: 28px;
+    margin-top: 5px;
+}
+
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+/* 2nd part of insta */
+.subsection{
+    background-image: url("./flower asset/Rectangle 9.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    width: full;
+    margin-left: 100px;
+    margin-right: 130px;
+    border-radius: 10px;
+
+    
+}
+
+
+
+.contact input{
+    padding: 14px 22px ;
+    margin-left: 250px;
+    border: none;
+    width: 50%;
+    border-radius: 5px;
+    margin-right: 8px;
+    margin-top: 8px;
+    
+    
+    
 }
